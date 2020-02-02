@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: BEAP'20
+name: First International Workshop on Business and Enterprise Architecture in Practice
+description: Co-located with CBI
+url: https://betty.github.io
+logo: /assets/img/profile.jpeg
+twitter_username: beap_ws
+email: blagovesta.pirelli at epfl.ch
+future: true
