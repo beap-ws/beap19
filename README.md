@@ -1,2 +1,4 @@
-# aire19
-Sixth International Workshop on Artificial Intelligence for Requirements Engineering
+# BEAP19 
+First Intenational Workshop on Business and Enterprise Architecture in Practice
+
+
